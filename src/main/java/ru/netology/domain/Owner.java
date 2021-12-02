@@ -2,5 +2,7 @@ package ru.netology.domain;
 
 public class Owner {
     private String ownerName;
-    private String ownerId;
+    private int ownerId;
+
+    // + get/set на все поля
 }

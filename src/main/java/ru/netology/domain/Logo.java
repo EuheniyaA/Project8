@@ -2,7 +2,7 @@ package ru.netology.domain;
 
 public class Logo {
     private String imageUrl;
-    private String id;
+    private int id;
 
     //getters, setters
 }
